@@ -11,4 +11,5 @@ La traducción del capítulo se puede descargar en formato PDF en el siguiente l
 <a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/051208995edb3cd83a7fefa9c53a72ff336773c7/Traduccion.pdf"> Traducción en PDF </a>  
 <p>
 La traducción del capítulo se puede descargar en formato LaTex en el siguiente link:
+<p>
 <a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/051208995edb3cd83a7fefa9c53a72ff336773c7/Traducci%C3%B3n.zip"> Traducción en LaTex </a>
