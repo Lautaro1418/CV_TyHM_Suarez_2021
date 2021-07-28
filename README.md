@@ -1,6 +1,6 @@
 # CV_TyHM_Suarez_2021
 <ul>
-<li type="circle">ENTREGA DEL MÓDULO: CREACIÓN DE TEXTOS E HIPERTEXTOS.</li>
+<H2><li type="circle">ENTREGA DEL MÓDULO: CREACIÓN DE TEXTOS E HIPERTEXTOS.</li></H2>
     <p>
     <li type="disc">Mi CV puede descargarse de este link:</li>
     <p>
@@ -15,7 +15,7 @@
     <a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/051208995edb3cd83a7fefa9c53a72ff336773c7/Traducci%C3%B3n.zip"> Traducción en LaTex </a>
     <p>
 
-<li type="circle">ENTREGA DEL MÓDULO: PROGRAMACIÓN EN LENGUAJE R-CRAN.</li>
+<H2><li type="circle">ENTREGA DEL MÓDULO: PROGRAMACIÓN EN LENGUAJE R-CRAN.</li></H2>
     <p>
     <li type="disc">El trabajo en formato HTML (con gráficos interactivos) se puede ver en el siguiente link (descargar el zip y luego podrá ver el formato html):</li>
     <p>
