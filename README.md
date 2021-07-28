@@ -16,9 +16,9 @@ La traducción del capítulo se puede descargar en formato LaTex en el siguiente
 <p>
 ENTREGA DEL MÓDULO: PROGRAMACIÓN EN LENGUAJE R-CRAN.
 <p>
-El trabajo en formato HTML (con gráficos interactivos) se puede ver en el siguiente link:
+El trabajo en formato HTML (con gráficos interactivos) se puede ver en el siguiente link (descargar el zip y luego podrá ver el formato html):
 <p>
-<a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/5fc35fdbd22c660fcab125901e5ca3d2541e3a57/Programacion-en-R-html.html"> Trabajo programación en R formato HTML </a>
+<a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/089d82a7bd9f70ebe0d91d669ec651818b76d586/Programacion-en-R-html.zip"> Trabajo programación en R formato HTML </a>
 <p>
 El trabajo en formato pdf (sin gráficos interactivos) se puede ver en el siguiente link:
 <p>
