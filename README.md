@@ -4,7 +4,7 @@
     <p>
     <H4><li type="disc">Mi CV puede descargarse de este link:</li></H4>
     <p>
-    <a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/e4b7ed1bccb2c0796ae0c80af5ae511cb8f3574c/CV%20Suarez.zip"> Actualizado Junio 2021 </a>
+    <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/e4b7ed1bccb2c0796ae0c80af5ae511cb8f3574c/CV%20Suarez.zip"> Actualizado Junio 2021 </a></H6>
     <p>
     <H4><li type="disc">La traducción del capítulo se puede descargar en formato PDF en el siguiente link:</li></H4>
     <p>
