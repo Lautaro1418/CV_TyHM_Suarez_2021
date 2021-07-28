@@ -4,4 +4,4 @@ Esta es la entrga del trabajo completo del Módulo 1 de Creación de Textos e Hi
 <p>
 Mi CV puede descargarse de este link:
 <p>
-[CV Actualizado](cv.zip)
+[CV Actualizado](CV Suarez.zip)
