@@ -37,4 +37,12 @@
     <H4><li type="disc">El trabajo de Adhesivo en formato LaTeX (comprimido en una carpeta zip) se puede descargar en el siguiente link:</li></H4>
     <p>
     <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/d6a969c3d0feca47e07b3455cdd48c97d3a44ad0/Adhesivos.zip"> Adhesivos en LaTex </a></H6>
+    <p>
+    <H4><li type="disc">El video documental de Adhesivo en formato MP4 se puede descargar en el siguiente link:</li></H4>
+    <p>
+    <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/63e08febc9443b5d1f3b4a5383abc09d950afabe/VIDEO%20ADHESIVOS.mp4"> Video Documental </a></H6>
+    <p>
+    <H4><li type="disc">El  guion del video documental de Adhesivo se puede ver en el siguiente link:</li></H4>
+    <p>
+    <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/63e08febc9443b5d1f3b4a5383abc09d950afabe/Gui%C3%B3n%20adhesivos.pdf"> Guion Video Documental </a></H6>
 <ul>
