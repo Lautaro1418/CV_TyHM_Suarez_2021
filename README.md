@@ -28,4 +28,13 @@
     <H4><li type="disc">El trabajo completo (con los archivos RMD y las fuentes), en formato zip, se puede descargar en el siguiente link:</li></H4>
     <p>
     <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/5fc35fdbd22c660fcab125901e5ca3d2541e3a57/Programacion%20en%20R.zip"> Carpeta zip del trabajo </a></H6>
+<H2><li type="circle">ENTREGA DEL MÓDULO: ADHESIVOS Y PRODUCCIÓN VIDEO DOCUMENTAL.</li></H2>
+    <p>
+    <H4><li type="disc">El trabajo de Adhesivos en formato PDF se puede descargar en el siguiente link:</li></H4>
+    <p>
+    <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/d6a969c3d0feca47e07b3455cdd48c97d3a44ad0/Adhesivos.pdf"> Adhesivos en PDF </a></H6>
+    <p>
+    <H4><li type="disc">El trabajo de Adhesivo en formato LaTeX (comprimido en una carpeta zip) se puede descargar en el siguiente link:</li></H4>
+    <p>
+    <H6><a href="https://github.com/Lautaro1418/CV_TyHM_Suarez_2021/blob/d6a969c3d0feca47e07b3455cdd48c97d3a44ad0/Adhesivos.zip"> Adhesivos en LaTex </a></H6>
 <ul>
